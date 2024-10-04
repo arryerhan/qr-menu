@@ -1,0 +1,85 @@
+{
+  "ourMenu": [
+    {
+      "id": 1,
+      "title": "Buttermilk Pancakes",
+      "price": 11.99,
+      "category": "breakfast",
+      "img": "./images/item-1.jpeg",
+      "desc": "Classic buttermilk pancakes 100% maple syrup served with fresh fruit and juice to make your day sweeter"
+    },
+    {
+      "id": 2,
+      "title": "Double Burger",
+      "category": "lunch",
+      "price": 13.99,
+      "img": "./images/item-2.jpeg",
+      "desc": "Double Hamburger is made with two all beef patties topped with tangy pickles,served with french fries and unlimited drinks"
+    },
+    {
+      "id": 3,
+      "title": "Godzilla Milkshake",
+      "category": "drinks",
+      "price": 6.99,
+      "img": "./images/item-3.webp",
+      "desc": "This popular beverage showcases how to entice children to drink milk in a creative way.Chocolate and malt powder that is mixed with milk to make."
+    },
+    {
+      "id": 4,
+      "title": "Deluxe Breakfast",
+      "category": "breakfast",
+      "price": 20.99,
+      "img": "./images/item-4.jpeg",
+      "desc": "Two eggs any way, mixed fruits, grits, or hashbrowns, and two pieces butter toast or plain biscuit! Or add on Cathead Cheese Biscuit!"
+    },
+    {
+      "id": 5,
+      "title": "Giant Burger",
+      "category": "lunch",
+      "price": 22.99,
+      "img": "./images/item-5.jpeg",
+      "desc": "This burger is made with two all beef patties topped with tangy pickles,served with french fries and unlimited drinks"
+    },
+
+    {
+      "id": 6,
+      "title": "Oreo Dream",
+      "category": "drinks",
+      "price": 18.99,
+      "img": "./images/item-6.jpeg",
+      "desc": "Blend chocolate sandwich cookies, ice cream, and milk together in a blender until smooth. Pour into 2 glasses."
+    },
+    {
+      "id": 7,
+      "title": "Homemade Biscuit",
+      "category": "breakfast",
+      "price": 8.99,
+      "img": "./images/item-7.jpeg",
+      "desc": "These biscuits are light, fluffy, super buttery. They're perfect with any time meal, we guarantee that that you'll order another one."
+    },
+    {
+      "id": 8,
+      "title": "American Classic",
+      "category": "lunch",
+      "price": 12.99,
+      "img": "./images/item-8.jpeg",
+      "desc": "American Classic is made with two all beef patties topped with tangy pickles,served with french fries and unlimited drinks!"
+    },
+    {
+      "id": 9,
+      "title": "Milkshake for Couples",
+      "category": "drinks",
+      "price": 16.99,
+      "img": "./images/item-9.jpeg",
+      "desc": "We offer a variety of milkshake flavors to treat every sweet tooth,including Vanilla,Strawberry and many seasonal flavors.To see what is currently on the menu."
+    },
+    {
+      "id": 10,
+      "title": "Bison Steak",
+      "category": "lunch",
+      "price": 22.99,
+      "img": "./images/item-10.jpeg",
+      "desc": "Beef lovers will enjoy this tender cut cooked on the grill or pan seared with herb butter.Bison is a great red meat with more protein,less cholesterol, and fat. "
+    }
+  ]
+}
