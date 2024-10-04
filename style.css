@@ -2,7 +2,9 @@
 
 body {
   font-family: "poppins";  
-  background-image:linear-gradient(95deg,#a07448,#d8c0c0) ;
+  background-image:linear-gradient(to right,#E4DCD1,#fff);
+  width: 100%;
+  height: 100%;
 }
 
 .heading {
