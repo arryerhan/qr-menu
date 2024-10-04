@@ -9,4 +9,4 @@ I used Html Css and JavaScript components for this project.
 
 # Screenshot is below
 
-![screen](https://github.com/user-attachments/assets/a0e576ee-cdbf-4388-a0aa-67cb8ce1d2b8)
+![screen](https://github.com/user-attachments/assets/d6a56251-ce73-4716-8582-2b23961ea241)
